@@ -2,8 +2,17 @@
     samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=616507
 --->
 
-# Driver samples for Windows 10
-These are the official Microsoft Windows Driver Kit (WDK) team driver code samples for Windows 10. They provide a foundation for Universal Windows driver support of all hardware form factors, from phones to desktop PCs. Use these samples with Visual Studio 2015 and Windows Driver Kit (WDK) 10.
+# Driver samples for Windows 11:
+https://github.com/microsoft/Windows-driver-samples
+
+or Brnach to Full : Windows11,10 , macOS , Linux here:
+
+https://github.com/DataSoftcoAI/Drivers11
+
+This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows(11) Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+
+# Driver samples for Windows 10:
+These are the official Microsoft Windows(10) Driver Kit (WDK) team driver code samples for Windows 10. They provide a foundation for Universal Windows driver support of all hardware form factors, from phones to desktop PCs. Use these samples with Visual Studio 2015 and Windows Driver Kit (WDK) 10.
 
 ## Windows 10 driver development
 Use Visual Studio 2015 and Windows Driver Kit (WDK) 10 to build, test, and deploy your drivers. With Windows 10, the driver development environment is integrated into Visual Studio. To get started, download the driver development kits and tools for Windows 10.
